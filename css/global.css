@@ -1,0 +1,48 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+
+@font-face{
+  font-family: Urbanist-bold;
+  src: url(/fonts/Urbanist-Bold.ttf);
+}
+
+@font-face{
+  font-family: Urbanist-semiBold;
+  src: url(/fonts/Urbanist-SemiBold.ttf);
+}
+
+@font-face{
+  font-family: Urbanist-medium;
+  src: url(/fonts/Urbanist-Medium.ttf);
+}
+
+@font-face{
+  font-family: Urbanist-regular;
+  src: url(/fonts/Urbanist-Regular.ttf);
+}
+
+@font-face{
+  font-family: Urbanist-regularIT;
+  src: url(/fonts/Urbanist-Italic.ttf);
+}
+
+@font-face{
+  font-family: Urbanist-lightIT;
+  src: url(/fonts/Urbanist-LightItalic.ttf);
+}
+
+@font-face{
+  font-family: Urbanist-light;
+  src: url(/fonts/Urbanist-Light.ttf);
+}
+
+
+
+
+
+
+
+
